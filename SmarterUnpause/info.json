@@ -1,0 +1,12 @@
+﻿{
+  "Id": "com.silentStatic.Tyranny.SmarterUnpause",
+  "DisplayName": "Smarter Unpause",
+  "Author": "silentStatic",
+  "Version": "2.0.0",
+  "ManagerVersion": "0.22.3.0",
+  "GameVersion": "5.0.0040",
+  "AssemblyName": "SmarterUnpause.dll",
+  "EntryMethod": "SmarterUnpause.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pillarsofeternity2/mods/104",
+  "Repository": "https://raw.githubusercontent.com/kjmikkel/PoE2Mods/master/SmarterUnpause/Repository.json"
+}

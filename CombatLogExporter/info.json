@@ -1,0 +1,10 @@
+{
+  "Id": "com.silentStatic.Tyranny.CombatLogExporter",
+  "DisplayName": "Combat Log Exporter",
+  "Author": "silentStatic",
+  "Version": "2.0.0",
+  "ManagerVersion": "0.22.3.0",
+  "GameVersion": "5.0.0040",
+  "AssemblyName": "CombatLogExporter.dll",
+  "EntryMethod": "CombatLogExporter.Main.Load"
+}

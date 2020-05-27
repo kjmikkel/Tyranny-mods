@@ -1,0 +1,12 @@
+{
+  "Id": "com.silentStatic.Tyranny.DisableAutosave",
+  "DisplayName": "Disable Autosave",
+  "Author": "silentStatic",
+  "Version": "2.0.0",
+  "ManagerVersion": "0.22.3.0",
+  "GameVersion": "5.0.0040",
+  "AssemblyName": "DisableAutosave.dll",
+  "EntryMethod": "DisableAutosave.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pillarsofeternity2/mods/255",
+  "Repository": "https://raw.githubusercontent.com/kjmikkel/PoE2Mods/master/DisableAutosave/Repository.json"
+}

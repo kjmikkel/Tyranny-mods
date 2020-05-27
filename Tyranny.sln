@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DedicatedPauseButton", "DedicatedPauseButton\DedicatedPauseButton.csproj", "{90F4E509-30CD-492D-89EF-0C408960B80D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions Items", "Solutions Items", "{3E5361E2-F725-4760-99C7-F9D5EB51ECB3}"
+	ProjectSection(SolutionItems) = preProject
+		CompileAll.bat = CompileAll.bat
+		copy_files.py = copy_files.py
+		PoE2Mods.sln = PoE2Mods.sln
+		post_build.py = post_build.py
+		README.MD = README.MD
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "License", "License", "{F216D452-BC7C-4BE9-90F7-25E989A59C83}"
+	ProjectSection(SolutionItems) = preProject
+		SonicZentropyLicense.txt = SonicZentropyLicense.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraZoomUnlocker", "CameraZoomUnlocker\CameraZoomUnlocker.csproj", "{5A43EA23-67AE-4345-BD09-4F06A93BAB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatLogExporter", "CombatLogExporter\CombatLogExporter.csproj", "{FF25C6C3-4C3D-42DF-9C74-1F7A6150E0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableAutosave", "DisableAutosave\DisableAutosave.csproj", "{BA223B04-6210-4EEA-9CC3-B77D2E63C2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterUnpause", "SmarterUnpause\SmarterUnpause.csproj", "{66796342-C8AB-4282-92FA-672B5169129A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F4E509-30CD-492D-89EF-0C408960B80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F4E509-30CD-492D-89EF-0C408960B80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F4E509-30CD-492D-89EF-0C408960B80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F4E509-30CD-492D-89EF-0C408960B80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A43EA23-67AE-4345-BD09-4F06A93BAB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A43EA23-67AE-4345-BD09-4F06A93BAB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A43EA23-67AE-4345-BD09-4F06A93BAB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A43EA23-67AE-4345-BD09-4F06A93BAB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF25C6C3-4C3D-42DF-9C74-1F7A6150E0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF25C6C3-4C3D-42DF-9C74-1F7A6150E0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF25C6C3-4C3D-42DF-9C74-1F7A6150E0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF25C6C3-4C3D-42DF-9C74-1F7A6150E0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA223B04-6210-4EEA-9CC3-B77D2E63C2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA223B04-6210-4EEA-9CC3-B77D2E63C2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA223B04-6210-4EEA-9CC3-B77D2E63C2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA223B04-6210-4EEA-9CC3-B77D2E63C2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66796342-C8AB-4282-92FA-672B5169129A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66796342-C8AB-4282-92FA-672B5169129A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66796342-C8AB-4282-92FA-672B5169129A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66796342-C8AB-4282-92FA-672B5169129A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F216D452-BC7C-4BE9-90F7-25E989A59C83} = {3E5361E2-F725-4760-99C7-F9D5EB51ECB3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F016930F-E52F-4D1A-8E1A-BAB9B653443C}
+	EndGlobalSection
+EndGlobal
